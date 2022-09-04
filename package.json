@@ -1,0 +1,21 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahTesfa/011-NoteTaker.git"
+  },
+  "author": "Noah Tesfa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoahTesfa/011-NoteTaker/issues"
+  },
+  "homepage": "https://github.com/NoahTesfa/011-NoteTaker#readme"
+}
